@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
   <Project Path="ProductClientHub.API/ProductClientHub.API.csproj" />
   <Project Path="ProductClientHub.Communication/ProductClientHub.Communication.csproj" />
   <Project Path="ProductClientHub.Exceptions/ProductClientHub.Exceptions.csproj" />
